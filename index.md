@@ -7,4 +7,7 @@ This page is about practicing Markdown documentation and basics
 - Improve documentation skills
 - Finish this course
 
+![Cute otter](https://github.com/wmerin/skills-communicate-using-markdown/blob/main/otter.jpg?raw=true)
+
+
 #### Thank u !
