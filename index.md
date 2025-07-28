@@ -12,6 +12,12 @@ This page is about practicing Markdown documentation and basics
 ```python
 print("Hello, world!")
 ```
+- [ ] Practice Markdown
+- [ ] Add image
+- [ ] Add code
+- [ ] Create a portfolio
+- [ ] Learn more technical skills
+- [ ] Create a task list 
 
 
 
