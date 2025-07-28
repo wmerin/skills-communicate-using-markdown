@@ -9,5 +9,10 @@ This page is about practicing Markdown documentation and basics
 
 ![Cute otter](https://github.com/wmerin/skills-communicate-using-markdown/blob/main/otter.jpg?raw=true)
 
+```python
+print("Hello, world!")
+```
+
+
 
 #### Thank u !
